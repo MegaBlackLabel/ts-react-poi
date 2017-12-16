@@ -1,10 +1,10 @@
 {
-  "name": "bootstrap",
-  "version": "0.0.0",
+  "name": "ts-react-poi-bootstrap",
+  "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/basarat/typescript-react.git"
+    "url": "https://github.com/osharper/ts-react-poi"
   },
   "scripts": {
     "build": "poi build",
